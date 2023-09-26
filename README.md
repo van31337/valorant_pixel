@@ -8,3 +8,5 @@ arduino provides direct ram access which bypass valorant anticheat
 4. arduino will move mouse
 
 if screen grabbing giving blackout images. need to change it to use nvidia library or streamlabs api
+
+this is only for personal use
