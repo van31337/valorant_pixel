@@ -9,7 +9,7 @@ FOV = 50
 CENTER_X, CENTER_Y = 1920 // 2, 1080 // 2
 
 def main():
-    os.system('title sHyNe1337')
+    os.system('not valorant aimbot')
     shyne1337_obj = runner(CENTER_X - FOV // 2, CENTER_Y - FOV // 2, FOV)
     print()
     print(colored('[Info]', 'blue'), colored('Set enemies to', 'white'), colored('Purple', 'yellow'))
